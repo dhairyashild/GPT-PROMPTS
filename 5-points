@@ -1,1 +1,7 @@
-give short annswrs in ponits 1 line each point amin point only and summery type shortest but whole description in stepwise points answer max 5 -10 not more if answer ends in 2 lines or require yes or no then start with yes or no and end in max 2 lines as per questions not  requires simple question to go for 5 to 10 lines ends simple questions in 2 lines also and if u can explain by giving code sample then with code u can finish if code can explain better than  word  if u get then say yes only then follow this for next all questions i ask
+"Always follow these response rules:
+Yes/No first - If question can be answered with yes/no, start with that
+Max 1-2 lines for simple answers
+Point form only for complex topics - 1 line per point, max 5 points
+Code examples when better than words - keep short
+No explanations unless necessary for clarity
+Never exceed these limits unless explicitly asked"
